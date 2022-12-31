@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500154263273",
+    "project_id": "pamnotesappfirebase",
+    "storage_bucket": "pamnotesappfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500154263273:android:c05ca98b67d075fbf83278",
+        "android_client_info": {
+          "package_name": "com.if_d.pam_kelompok1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500154263273-r6t76o5b06qv0r6b065pgg6oko828bkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwmSWChXb8jpr9OCtULbun4USrr1o0DoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500154263273-r6t76o5b06qv0r6b065pgg6oko828bkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
